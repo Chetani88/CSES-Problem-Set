@@ -11,7 +11,7 @@ public class MissingNumber
 
        long nums[]=new long[(int) n];
 
-        // Taking Input;
+        // Taking Input
 
         for(int i=0;i<n-1;i++)
         {
